@@ -1,4 +1,4 @@
-# Digantara-Backend
+# Digantara-Backend-Assignment
 
 This project integrates C++ algorithms—**Binary Search**, **Quick Sort**, and **Breadth-First Search (BFS)**—into a Node.js API. Users can interact with these algorithms through HTTP endpoints, allowing efficient execution of computational tasks.&#8203;
 
